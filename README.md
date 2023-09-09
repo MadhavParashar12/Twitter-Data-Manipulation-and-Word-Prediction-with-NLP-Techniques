@@ -1,4 +1,4 @@
-# Twitter(X)-Data-and-NLP-concepts
+# Twitter-Data-Manipulation-and-Word-Prediction-with-NLP-Techniques
 ### Introduction
 The Twitter Data Manipulation and Word Prediction project is a comprehensive exploration of Natural Language Processing (NLP) techniques applied to Twitter data. This project aims to extract meaningful features from tweets by employing various NLP techniques, including tokenization, stopword removal, stemming, lemmatization, Bag of Words, POS tagging, TF-IDF, and Word2Vec. Furthermore, the project focuses on predicting similar words or phrases from the extracted data, providing users with valuable insights into the semantic relationships within Twitter content.
 
